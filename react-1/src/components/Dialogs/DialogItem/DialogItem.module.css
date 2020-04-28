@@ -1,0 +1,15 @@
+.dialog .active{
+    color: gold;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+.avatar{
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+}
+
